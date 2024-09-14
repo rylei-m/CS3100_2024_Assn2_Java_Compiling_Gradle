@@ -68,7 +68,7 @@ goto fail
 :execute
 @rem Setup the command line
 
-set CLASSPATH=%APP_HOME%\lib\Assn2-1.0-SNAPSHOT.jar
+set CLASSPATH=%APP_HOME%\lib\Assn2.jar
 
 
 @rem Execute CS3100_2024_Assn2_Java_Compiling_Gradle
